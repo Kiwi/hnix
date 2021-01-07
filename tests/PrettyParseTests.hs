@@ -7,7 +7,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE UndecidableInstances #-}
 
-{-# OPTIONS -Wno-orphans#-}
+
 
 module PrettyParseTests where
 

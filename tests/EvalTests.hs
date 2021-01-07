@@ -5,7 +5,7 @@
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE UndecidableInstances #-}
 
-{-# OPTIONS_GHC -Wno-missing-signatures -Wno-orphans #-}
+
 
 module EvalTests (tests, genEvalCompareTests) where
 
